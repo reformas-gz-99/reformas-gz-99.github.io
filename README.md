@@ -573,8 +573,7 @@
         <div class="footer-section">
             <div class="payment-info">
                 <div class="section-title">Forma de Pago</div>
-                <textarea id="payment-terms" rows="3">50% al aceptar el presupuesto y el resto al finalizar la obra.
-IBAN: ES52 2100 3339 5022 0021 3743</textarea>
+                <textarea id="payment-terms" rows="3">50% al aceptar el presupuesto y el resto al finalizar la obra.</textarea>
             </div>
             
             <div class="totals-box">
